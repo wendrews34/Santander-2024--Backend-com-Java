@@ -1,0 +1,3 @@
+# Desafio - Controle de Fluxo
+
+Este projeto Java, chamado `DesafioControleFluxo`, consiste em duas classes: `Contador.java` e `ParametrosInvalidosException.java`. A classe `Contador` lê dois números do terminal. Se o primeiro número for menor que o segundo, ela imprime uma sequência de números incrementados. Caso contrário, lança a exceção `ParametrosInvalidosException`. Esta exceção personalizada é usada para sinalizar quando o primeiro número é maior que o segundo. É um exemplo simples de controle de fluxo e tratamento de exceções em Java.
